@@ -1,0 +1,25 @@
+.hero {
+    background-color: black;
+    min-height: 100vh;
+    font-family: cursive;
+}
+.container {
+    background-color: white;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.login{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login input {
+    margin: 1%;
+}
+.login button {
+    width: 100%;
+}
